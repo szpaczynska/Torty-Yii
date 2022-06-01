@@ -1,0 +1,11 @@
+<?php
+
+/* @var $this yii\web\View */
+use yii\bootstrap4\Html;
+
+$this->title = 'Bake a cake';
+echo Html::img('@web/img/grfika.jpg');
+?>
+<div class="site-index">
+</div>
+</div>
